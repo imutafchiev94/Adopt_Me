@@ -1,0 +1,27 @@
+{
+  "name": "adopt_me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "format": "prettier \"**/*.{js, html}\"  --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imutafchiev94/Adopt_Me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imutafchiev94/Adopt_Me/issues"
+  },
+  "homepage": "https://github.com/imutafchiev94/Adopt_Me#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0"
+  }
+}
